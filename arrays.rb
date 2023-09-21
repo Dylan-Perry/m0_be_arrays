@@ -30,3 +30,6 @@ puts booleans
 # Index explanation
 # Referring to the original arrays defined above, string[0] would be Lily, string[3] would be "Rose"
 
+# Count method explanation
+# The method <array>.count will return the number of elements in an array (or, if an argument is defined, the number of elements within the array matching the argument). Example usage for the booleans array, returning the number of false elements:
+puts booleans.count(false)
