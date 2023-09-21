@@ -26,3 +26,7 @@ puts floats
 # Adding elements false and false to the front of the booleans array with the unshift method
 booleans.unshift(false, false)
 puts booleans
+
+# Index explanation
+# Referring to the original arrays defined above, string[0] would be Lily, string[3] would be "Rose"
+
